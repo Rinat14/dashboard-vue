@@ -1,4 +1,4 @@
-# dashboard
+# Dashboard in vue.js 3 and in Tailwind CSS.
 
 ## Project setup
 ```
